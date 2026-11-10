@@ -2,7 +2,7 @@
 
 ## 1. Identificación
 
-- **Integrantes:** Javier Bórquez Diaz Benjamín Peredo Durán Diego Valenzuela Astudillo
+- **Integrantes:** Javier Bórquez Diaz, Benjamín Peredo Durán y Diego Valenzuela Astudillo
 - **Asignatura:** Ingeniería Web Avanzada
 - **Curso y sección:** OII436-1
 - **URL del repositorio:** https://github.com/JavierBor/Laboratorio3.git
